@@ -1,0 +1,14 @@
+{
+  "name": "mauri-mtsb",
+  "version": "1.0.0",
+  "description": "Professional CLI-based anomaly detection tool for cybersecurity professionals",
+  "author": "Mohamed lemine Ahmed Jidou",
+  "private": true,
+  "scripts": {
+    "install-deps": "pip install -r requirements.txt",
+    "test": "python -m pytest tests/",
+    "lint": "python -m flake8 .",
+    "format": "python -m black ."
+  },
+  "keywords": ["anomaly-detection", "cybersecurity", "time-series", "kali-linux", "cli"]
+}
