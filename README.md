@@ -422,8 +422,8 @@ python -c "from utils.logger import log_system_info; log_system_info()"
 ### Development Setup
 ```bash
 # Fork and clone the repository
-git clone https://github.com/your-username/mauri-mtsb.git
-cd mauri-mtsb
+git clone https://github.com/mauritaniacoder99/Mauri_mTSB.git
+cd Mauri_mTSB
 
 # Create development environment
 python -m venv venv
@@ -476,10 +476,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/your-repo/mauri-mtsb/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-repo/mauri-mtsb/discussions)
-- **Email**: mohamed.jidou@example.com
+- **Email**: mauritaniacoder@gmail.com
 
 ---
 
-**🔥 Mauri-mTSB** - Professional anomaly detection for cybersecurity professionals on Kali Linux.
+**🔥 Mauri-mTSB** - Professional anomaly detection for cybersecurity professionals on Linux.
